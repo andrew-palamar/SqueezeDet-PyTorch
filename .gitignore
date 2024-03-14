@@ -1,0 +1,3 @@
+data/kitti/*/*.txt
+data/kitti*/*.png
+*.zip
